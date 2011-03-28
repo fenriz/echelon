@@ -21,7 +21,8 @@ $supported_games = array( // supported games
 	"cod" => "Call of Duty", 
 	"cod2" => "Call of Duty 2", 
 	"cod4" => "Call of Duty 4 MW", 
-	"cod5" => "Call of Duty: World at War", 
+	"cod5" => "Call of Duty: World at War",
+        "cod7" => "Call of Duty: Black Ops", 
 	"iourt41" => "Urban Terror", 
 	"wop" => "World of Padman"
 );
